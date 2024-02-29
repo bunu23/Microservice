@@ -1,3 +1,3 @@
 # Microservice
 
-[Link Text](https://github.com/bunu23/Microservice/01-feign-eureka-demo)
+[Feign and Eureka](01-feign-eureka-demo)
