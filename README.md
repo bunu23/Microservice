@@ -1,3 +1,3 @@
 # Microservice
 
-[Feign and Eureka](01-feign-eureka-demo)
+[Feign and Service Registry: Eureka](01-feign-eureka-demo)
