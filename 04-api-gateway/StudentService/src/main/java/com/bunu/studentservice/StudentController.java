@@ -1,0 +1,14 @@
+package com.bunu.studentservice;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class StudentController {
+    @GetMapping("student/{studentid}")
+    public String getName(@PathVariable("studentid") String studentid){
+        return "John Doe";
+    }
+
+}
