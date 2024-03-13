@@ -11,3 +11,7 @@
 [Zipkin](05-zipkin)
 
 [ELK](06-ELK)
+
+[Circuit Breaker](07-circuit-breaker)
+
+[Spring cloud contract](08-spring-cloud-contract)
